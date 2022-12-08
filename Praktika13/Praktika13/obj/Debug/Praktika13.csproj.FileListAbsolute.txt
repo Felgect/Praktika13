@@ -1,0 +1,16 @@
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\bin\Debug\Praktika13.exe.config
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\bin\Debug\Praktika13.exe
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\bin\Debug\Praktika13.pdb
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.csproj.AssemblyReference.cache
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\MainWindow.g.cs
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\App.g.cs
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13_MarkupCompile.cache
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13_MarkupCompile.lref
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\MainWindow.baml
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.g.resources
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.Properties.Resources.resources
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.csproj.GenerateResource.cache
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.csproj.CoreCompileInputs.cache
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.exe
+C:\Users\kalugin.da0826\source\repos\Praktika13\Praktika13\obj\Debug\Praktika13.pdb
